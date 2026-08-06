@@ -71,3 +71,8 @@ p+p{margin-top:14px}
 footer{background:#0D2140;color:var(--ice);padding:34px 0;font-size:12.5px}
 footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}
 footer a{color:var(--blue)}
+
+nav .logo{display:flex;align-items:center;gap:10px}
+nav .logo img{height:30px;width:auto}
+.hero .biglogo{max-width:400px;width:70%;margin:0 auto 6px}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
